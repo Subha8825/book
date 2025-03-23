@@ -1,0 +1,38 @@
+[
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 499,
+      "publishedYear": 1988
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 799,
+      "publishedYear": 2018
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "price": 999,
+      "publishedYear": 1999
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 1299,
+      "publishedYear": 2008
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 699,
+      "publishedYear": 2016
+    },
+    {
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "price": 849,
+      "publishedYear": 2011
+    }
+  ]
